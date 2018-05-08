@@ -9,11 +9,13 @@ footer {
   margin: 0;
   padding: 0;
   width: 100%;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
 }
 
 body {
   background-color: #fff;
   color: #274de6;
+  font-size: 100%;
 }
 
 a {
@@ -107,7 +109,7 @@ header {
   }
 
   .sub-box3 {
-    color: red;
+    color: #f00;
     text-align: center;
     width: 100%;
   }
